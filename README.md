@@ -1,4 +1,4 @@
-# HyperLogLog (A3): анализ зависимости от B
+# HyperLogLog (A3)
 
 В проекте сравнивается работа HLL при разных `B` (precision bits):
 
